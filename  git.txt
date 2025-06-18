@@ -1,0 +1,135 @@
+﻿                           FUNDAMENTALS OF ai
+
+Watching the video of the Tesla Bot serving drinks seemed like something out of a science fiction movie I saw as a child called ROBOCOP, the difference is it was all machine without any human parts. AI seems like such a modern concept but in reality, it has been evolving since the term ARTIFICIAL INTELLIGENCE was made up by John McCarthy in 1956 when its foundation was set. One of the nascent ideals of AI was centered not on high-level perception that transcends beyond the idea of the capacity to discern objects, perform compound motor skills performed by most creatures or capacity to discern abstractions rather it centered on the ability of undertaking complex reasoning to comprehend the connotations of natural language, to form new evidence to create new plans that realize targets. Technically AI circumscribes a diversity of abstractions and methods which confers on a machine the ability to carry out human-like chores.
+Natural language Processing (NLP), Machine Learning, Computer Vision, Automation and Robotics, Data Mining, Neural Networks and Ethics in AI all form the framework for creating systems with humanlike abilities to carry out various implementations that cut across finance to healthcare to self-driving cars and beyond. 
+* MACHINE LEARNING goes beyond just programming machines to carry out specific operations but thy are able to learn from the experience of analysis of large data sets that they are exposed to and have the ability to create new ideas. Machine learning is a subset of AI that sets up models that learn and are able to enhance themselves as they analyze more and more data. machine learning takes advantage of complex algorithms that are trained to recognize patterns in data sets while being able to generate new models. Unsupervised Learning, Supervised Learning and Reinforcement Learning are some machine learning algorithms that are used. In Supervised learning, just as children learn to tell fruits apart by looking at pictures so also the algorithm is Supervised machine learning is trained by a labeled data set. The aim is to impersonate what exist in the real world and an example of this is a spam email filter where the algorithm is taught on a labeled data set that is labeled as either spam or not spam. Unsupervised learning on the other hand, learns with data that is not labeled to recognize intricate methods and arrays which creates no distinct output such as if an email is spam or not. Teaching a computer how to play chess is an example of Reinforcement learning, rather than studying data to uncover patterns it is geared towards a set goal. It deals with more complex data and vigorous conditions than other methods that drives towards a trial and error course. The feedbacks are either positive, negative or neutral and the algorithm uses this to improve its decision making manner. Essentially machine learning entails training models with gathered and compiled data, selecting the algorithm to produce the desired model, refine and prepare data analysis train the model, evaluate model performance and precision, tweak and enhance model parameters and finally launch the model.
+* NATURAL LANGUAGE PROCESSING, this is the case where computers are automated to process human language. The audio of a human dialogue is taken by the machine, the audio to text transfiguration ensues and the text is treated and converted to audio and the machine makes use of the audio to give a reply. Due to the complexity of the human language such a set guidelines involved in passing of information   poses a challenge for the Natural Language Processing, making it difficult for the computer to comprehend. NLP is integrated into chatbots, google translate, to check for correctness of grammar in Microsoft word etc. Algorithms are used to distinguish and abstract the guidelines of natural language to be adapted to what the machine can comprehend.
+* COMPUTER VISION is used in face recognition, self-driving cars, robotic automation, medically anomaly detection and many more. It involves the ability of computers to capture and obtain data from images and videos just like a human would be capable of.  Cameras are used to take the visual data which is then changed to digital data, and digital signal processing is used to process the data.
+* AUTOMATION AND ROBOTICS are used to increase efficiency by achieving the monotonous and repetitive task that produce gainful and more efficient outcomes that would otherwise be time consuming and costly when done by humans. These robots are able to learn over time and advance without being clearly automated, Machine learning algorithm examine across considerable volumes of data to perceive arrays and make evaluations allowing them to acclimatize to new circumstances and environments.
+* NEURAL NETWORKS are potent tools used in AI that are fashioned just like the human brain, they are like artificial human brain. They are implemented in different industries such as engineering, finance, and healthcare to create projections and ascertain perceptions centered on inputted data. They are devised by assembling layers and layers of interlocked neurons which process and convey data in a manner like the brain cells do. They are mathematical models which make use of intricate algorithms to ascertain the strength of each neuron and its interaction to other neuron, it uses the projected and factual outputs to develop its function and this  procedure is called training primarily the intent of the design is mostly a system that learns from data that it is fed and produce predictions or classifications founded on the training  process. Neural networks are implemented in image classification, NLP, financial forecasting and also in medical diagnosis.
+The human like intelligence is referred to as strong AI of which the main approach is symbolic reasoning to elucidate the fact that computers are not basically numeric calculators but are capable of symbolic manipulation.
+
+
+
+
+
+
+
+
+
+                            PRINCIPLES OF AI TECNOLOGY
+
+
+
+Prof. Geoffrey Hinton one of the 'godfathers" of AI said, we've never had to deal with things more intelligent than ourselves before". His speech was to elucidate the negative impact AI could have on the human race if not properly regulated as there is always the possibility of the threat of bad actors and companies manipulating AI for selfish and destructive purposes. This is because AI, though programmed by humans is able to learn and make decisions just like the human brain, hence it is capable of evolving.
+Artificial Intelligence is everywhere, influencing our daily lives as to where to eat, where to shop, what to watch (Netflix recommendations) and many more aspects of our daily lives hence the need for responsible AI. Responsible AI sets in motion and enforces principled, visible and liable AI methods, this is to safeguard the privacy, impartiality, confidentiality and over-all wellbeing of the users and society at large. Responsible AI is governed by principles that ensure that AI is safe and augments human abilities and judgement crafting abilities that are ethically sound.
+Bias even with just the human factor is an issue that we still grapple with as a society and should be guarded against with AI. It is pertinent that bias and fairness are prioritized in AI technology to prevent a certain demography, race or a certain social class to be unfairly marginalized in AI decision making skills. In cases like where job applications are sorted by AI, in the justice system or even in situations that gender may become an issue, it is important to avoid bias and unfairness so discrimination doesn't occur. To eliminate bias and unfairness in AI technology, models should be trained with diverse data that properly represents every facet of the society, technology should be regularly updated and algorithms should represent every possible feature of different groups
+AI technology should be transparent on how it was programmed and what it  was programmed to do. It should be open on what type of data was used to train it, how are it assessment skills and also what are its restrictions. As AI becomes more complicated it possess a difficulty for its functions to be easily understood but this can be overcome by establishing AI that can explain its functions in a manner humans can comprehend. Also understandable documentation should be used to expound on its design process and its limitations to garner trust from users.
+Despite the advancement and high level of intelligence of AI, they are still capable to make mistake and there is a need for accountability, someone has to held responsible when this goes left. There must be a contingency put in place to handle cases of malfunction or faulty actions of AI technology and the mistake must be fixed. The technology should be monitored to ensure it remains ethical in its decision making with frequent audits and ownership should be clearly defined.
+AI technology should explicitly guard against data leaks as the saying goes "data is the new oil". It should prioritize the safety and confidentiality of user data against theft and exploitation. Encryption should be used on data; security audits should be done and only data that is absolutely necessary should be collected.
+          Essentially AI should be developed ethically adhering to the morals of the society and not to be exploited for nefarious activities and for selfish gain by companies and countries.
+
+
+
+
+
+
+
+
+
+
+
+
+                                               AI ETHICS
+The idea of AI is to improve the quality of life of humans as it seeks to reduce the monotony of tasks and speed up innovations, but like anything in society there are always the good and the bad aspects as organizations and individuals will tend to manipulate the technology for nefarious and unjust activity, these can be seen in the use of deepfakes, AI is used to manipulate and spread misinformation and even to manipulate elections. For AI to perform ethically, it  requires the human factor as to how it was programmed and the type of data it was trained on to promote fairness and reduce bias. Generative AI evolves daily and there is a need to ensure that this technology promotes and supports the dignity of the human life, clear decision making, encourages equity and fairness to chart the path for a better future for the human race. 
+Vilas Dhar, president of the J. McGovern Foundation talks about three part framework used in creation of new and ethically and the three pillars of the frame work are;
+* RESPONSIBLE DATA PRACTICES; data used to train generative AI must be collected and an ethical and unbiased method to ensure that the data explicitly represents its target audience without and marginalization. Accountability and proper use of data should be done so as to garner trust of the users. If the data for example only represents a certain gender of a certain race and socioeconomic class it will ultimately affect the decision making process of the AI technology that will result in sidelining the genders, and class not represented in the training data. AI can only be as ethical as the data it is trained on and this must be controlled by the human factor to reduces bias and unfairness in the model. Responsible data collection encompasses clear and ethical implementations that puts individual privacy protection at its forefront, diminishing unfairness and bias and garnering user's trust. This can be done by observing laws that are already in place to ensure an ethical and progressive technology.
+
+* CREATING WELL- DEFINED BOUNDARIES; as new AI technology is being released it is of great importance for their manufacturers to have well elucidated statements on the objectives of their stated goals and their target consumer should be clearly and explicitly expressed for responsible and moral use. In other words when a technology is developed say to create videos for educational purposes but the technology is instead used to create deepfakes that are used to spread misinformation or used to commit fraud hence the need for accountability and regular audits on the AI technology. When creating AI technology, statements like who the target users are and for what type of audience, incentives and the most responsible way the technology should be used.
+
+* ROBUST TRANSPARENCT; entails how clear are the references of the technology and how distinguishable are the consequences so as to make room for checking of ethical responsibility. How understandable are the inputs, analysis, outputs and processes of the technology. The technology should be vigorously engaged with a wide range of stakeholders to ensure that it represents the population without bias or unfairness.
+ 
+ It is important for the foundation of AI technology to be based on an ethical principle that protect data and promote trust which will reduce the risk to the organization and society while also growing the worth of the technology as an added advantage. Effectual and ethical data development should be channeled towards highlighting privacy, decreasing bias and fostering transparency. Due to sensitive nature of data collected which may include health records, banking details, credit card numbers, it is important to secure the privacy of data collected and the data should be used in a responsible manner to prevent against breaking consumer's trust as it is expected that the data is to be efficiently protected in an ethical process. Regular audits should be conducted to ensure data is stored and processed safely and ethically.
+Bias in data could occur form different bases and a profound comprehension of how this arises requires in-depth analysis of the collected data to lessen bias. Again, auditing the data regularly should be done to understand where the data was compiled from and if it concisely embodies the populace it is targeted at. Factors such as race, sex, ethnicity, age and more should be considered. Having a clear comprehension of the bias in the data set helps to curtail the adverse effects of bias in the algorithm.
+It is pertinent that technology teams that are tasked with developing the AI technologies possess a resilient and unwavering ethical ethos accompanied by outer oversight and responsibility. When tasked with the development, these teams are made up with a diverse group of people with various skills and expertise possessing various characters with different sense of morality, they are always given limited timeframe and are usually unable to evaluate the consequences of the technology they manufacture. Ethical evaluations they face may comprise; building and assessing algorithms to ensure that they are void of bias and just and the impact of their decisions fosters the well-being of the society. At the start of building a new technology it is important to consider likely ethical problems that may arise and consider probable solutions required to mitigate the problems. The key players like the CEOs responsible for releasing this AI technologies should foster developing responsible AI that align with the laws that are set in place to guide the ethical values of the technology. They should set the ethical attitude by putting in place operations and values that must be adhered to. 
+As in the case of self-driving cars for example, when accident occur usually the person behind the wheel is held accountable but in the case of a self-driving who can be held accountable for the accident, picture  such a car driving down the road does it hit the family of four Infront of it or does it swerve to the side hitting oncoming vehicles that could potentially result in loss of lives. The conundrum of deciding what or who to hit in such a case rest solely on the shoulders of the programmers as there is no clearly stated standard as to make such a decision hence this is a tricky situation for the programmers to steer. A resolution can be developed by a collaborative approach involving ethical personnel, lawmakers, engineers and the community.
+As occurs in any AI system self-driving cars are vulnerable algorithm prejudice and if  not correctly handled, prejudices in training data would lead to inequitable consequences which will support specific groups of road users or brands of vehicles. Calling for the need for a more dynamic assessment and openness to alleviate such prejudices that may impact life and death judgments.
+               Although there are various ethical challenges faced by AI technology, we should not fail to notice the prospective advantages they posse as they are capable of improving the quality of life for people with disabilities (in self-driving cars) by ameliorating  their movement. A well balanced amalgamation of open dialogue, openness, innovation, ethics, regulation and commitment to responsible AI practices to steer towards a better future in AI technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARTIFICIAL INTELLIGENCE CLASSIFIED BASED ON THEIR CAPABILITY AND FUNCTIONALITY
+
+
+CAPABILITIES
+
+* Artificial General intelligence (AGI): this AI from a conceptual perception performs various activities just like a living human would be capable of doing that is as a general intelligent technology it is able to resolve difficulties and circumstances in manner that differs from how it was originally designed or imagined by the developers. It possesses the capacity to complete an array of undertakings, objectives and more in different situations and conditions. AGI ought to be able to simplify information it has been trained and experienced and utilize this to solve a diverse range of difficulties. Although some have argued that this AI is not conceivable due to true-to-life resource limitation.
+
+* ARTIFICIAL NARROW INTELLIGENCE (ANI): unlike AGI this is a more everyday type of  AI, it is also referred to as weak AI and it's a software or computer device that is able to resolve precise and challenging quandaries. They can be found in image classifiers, language translators and self-driving cars. ANI possess restricted memory, sensitive character and set and distinct goals.
+
+* ARTIFICIAL SUPER INTELLIGENCE (ASI): it is able to carry out activities better than any human is capable of in the absence of essentially mimicking the human behavior. although the idea of ASI for now seems a tad daunting due to the level of intricacy it entails as it is proposed to be able to accomplish human abilities like thinking, form reason, and also possess the ability apply its own decisions in a manner totally independent of human input.
+
+
+FUNCTIONALITY
+
+This centers on the real life application of AI and not on theoretical aspects.
+
+* REACTIVE MACHINES: AI in this domain are those that have been automated to carry out specific task hence it gives a solution based on the specified request made. They are unable to draw from past knowledge to handle current decision making requirements although they are capable of acquiring and handling database to manage what it assimilates and advance. An example of this AI technology is the Deep Blue computer that was able to beat the best chess player in the world.
+
+* LIMITED MEMORY MACHINES: they are able to keep past knowledges in reserve and learn from new data for temporary lengths of time as they are completely ready to react or respond accordingly. From knowledge gathered it is able to create response on time and also build on its automation to produce fresh models and reactions. An example of this is in the case of self-directed cars that is able to measure the speed and direction of other automobiles. Computers making use of this AI are capable due to their memory of their experiences to arrive at well-timed conclusions to demands or to carry out a task.
+
+* THEORY OF MIND: psychologically it is explained that humans have thoughts and emotions which influence our character and define our social interactions hence for machines to exist alongside us they should have a comprehension of our feelings and thought pattern. This will bring us to a highly complex level of AI that is able to have a comprehension of our expectations and adjust accordingly.
+
+* SELF AWARENESS: presently there is no AI technology that has a sense of self-awareness but this is the goal that some scientists have set to reach his level in AI technology. There are no proven prototypes as at now because on a mathematical level it a highly impressive goal for AI technology. The challenges this faces is that AI would need to add to the programming the capacity to comprehend the different emotions and thoughts of individuals and this level of convolution is a farfetched idea for present technology.
+ 
+
+
+
+
+
+
+
+
+
+
+                                                           RESPONSIBLE AI
+
+As the technology of AI has become widely spread and intricate part of our daily lives, there is consequently an increase in the risk factor associated with it, hence the relevance for the need to manage these risks related with AI technology.  Implementation of AI technology for conglomerative worth, a comprehension of what the technology is doing and the why are important in arriving at precise and unbiased conclusions.
+Responsible AI is a makeup of philosophies that chart and guide the objective, development, execution and practice of AI technology to build ethically viable technology. Basically, AI technology should be human centered promoting excellence and trust to moderate the risk related with the use of AI technology. It is a method of emerging and implementing AI from both and ethical and legal point of view, with the goal of practicing in a safe, trustworthy and ethical style to increase clearness and impartiality.  The responsibility of practicing responsible AI begins with the data scientist and software developers who write and train the AI models. Promoters of responsible AI hold on to the idea that a generally implemented governance structure of AI best practices encourages that AI software design is human focused, understandable and definable. How this is executed differs from one geographical location to another and from organization to organization, in some cases the chief analytical personnel or another dedicated AI personnel may be tasked with the responsibility of designing, executing and supervising the company's responsible AI principles. As AI technology becomes more and more widely spread into different facets of human life it is pertinent that standards be set up for ethical and lawful designs and implementation of AI technology. Bias arises in  AI models due to the type of data that is used to train machine learning models by using flawed or inadequate data to train the models and this may result in solutions that arrive at negative conclusion that will be harmful to human life. The National Institute of Standards and Technology (NIST) has a framework for to guide for responsible AI practice and they include;
+
+* Safe: responsible AI should ensure the safety of human beings, possessions and surroundings.
+* Accountable and transparent: developers are to make AI technology clear and comprehendible to establish trust and make it easy to solve problems with the turnout of the technology.
+* Fair with minimized bias: this focuses on equity and equality by reducing bias and judgement.
+* Privacy-enhanced: AI technology must be automated to ensure the confidentiality on users.
+* Explainable and interpretable: this explains the how's and whys of the AI technology to ascertain the practicality and reliability.
+* Valid and reliable: performance of AI technology should perform uniformly across diverse situations.
+* Secure and resilient: responsible AI should be automated to guard against and respond to attacks while also having the ability to recover from attacks.  
+
+Implementing responsible AI policies and structure face challenges of safety and confidentiality, data unfairness, obedience to policies and the type and quality of data used for training models.
+Organizations should have responsible AI control policies that are used always for every new AI technology created and these policies should follow best practices such as;
+* Training: every personnel taking part in AI technology should be properly trained on the governing policies.
+* Compliance: there should be a direct supervision of the legal and compliance personnel over the AI development teams to ensure compliance with the policies put in place.   
+* Culpability: there should be proper scrutinizing and supervision.
+* Ethical data use: proper understanding of the effects of using biased data and how to avoid this.
+* Transparency: the process of the improvement, utilization, algorithms and the use of AI technology should be clearly expounded.
+* Compound teams: the process of AI technology should involve a compound set of teams for example an AI technology for cars should also involve experts in that field.
+
+
+
+
+IDEAS/GF/ABJ/55/UI/AI/0012
+
